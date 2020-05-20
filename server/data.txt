@@ -1,0 +1,38 @@
+let books = [
+    {
+        id: '1',
+        name: 'Ponniyin selvan',
+        genre: 'history',
+        authorId: '1'
+    },
+    {
+        id: '2',
+        name: 'scarlet pimpernal',
+        genre: 'drama',
+        authorId: '2'
+    },
+    {
+        id: '3',
+        name: 'maya kuthirai',
+        genre: 'fantasy',
+        authorId: '3'
+    },
+    {
+        id: '4',
+        name: 'Parthiban kanavu',
+        genre: 'history',
+        authorId: '1'
+    },
+    {
+        id: '5',
+        name: 'maya mothiram',
+        genre: 'fantasy',
+        authorId: '3'
+    }
+];
+
+let authors = [
+    { id: '1', name: 'Kalki', age: '82'},
+    { id: '2', name: 'victoria', age: '82'},
+    { id: '3', name: 'ambuli', age: '82'}
+]
